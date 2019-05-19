@@ -1,0 +1,653 @@
+div#container
+{
+   width: 1000px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#Image1
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Golshany
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Oshmyani
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Smorgon_
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Voronovo
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Mir
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Shychin
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Lida
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Krasnoselski
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Dyatlovo
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Slonim
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Dyatlovo
+{
+   position: absolute;
+   left: 393px;
+   top: 469px;
+   width: 123px;
+   height: 148px;
+   z-index: 10;
+}
+#wb_Mir
+{
+   position: absolute;
+   left: 739px;
+   top: 404px;
+   width: 105px;
+   height: 138px;
+   z-index: 6;
+}
+#wb_Image1
+{
+   position: absolute;
+   left: 0px;
+   top: 0px;
+   width: 1000px;
+   height: 800px;
+   z-index: 1;
+}
+#wb_Shychin
+{
+   position: absolute;
+   left: 278px;
+   top: 331px;
+   width: 115px;
+   height: 138px;
+   z-index: 7;
+}
+#wb_Slonim
+{
+   position: absolute;
+   left: 560px;
+   top: 611px;
+   width: 122px;
+   height: 154px;
+   z-index: 11;
+}
+#wb_Smorgon_
+{
+   position: absolute;
+   left: 759px;
+   top: 58px;
+   width: 123px;
+   height: 148px;
+   z-index: 4;
+}
+#wb_Voronovo
+{
+   position: absolute;
+   left: 371px;
+   top: 186px;
+   width: 114px;
+   height: 153px;
+   z-index: 5;
+}
+#wb_Lida
+{
+   position: absolute;
+   left: 556px;
+   top: 334px;
+   width: 126px;
+   height: 153px;
+   z-index: 8;
+}
+#wb_Krasnoselski
+{
+   position: absolute;
+   left: 203px;
+   top: 469px;
+   width: 115px;
+   height: 142px;
+   z-index: 9;
+}
+#wb_Oshmyani
+{
+   position: absolute;
+   left: 495px;
+   top: 99px;
+   width: 113px;
+   height: 157px;
+   z-index: 3;
+}
+#wb_Golshany
+{
+   position: absolute;
+   left: 616px;
+   top: 13px;
+   width: 115px;
+   height: 173px;
+   z-index: 2;
+}
+@media only screen and (min-width: 1280px)
+{
+div#container
+{
+   width: 1280px;
+}
+body
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+#BuildWith1
+{
+   left: 3101px;
+   top: 1622px;
+   width: 189px;
+   height: 180px;
+   visibility: visible;
+   display: inline;
+}
+#wb_Image1
+{
+   left: 0px;
+   top: 0px;
+   width: 1000px;
+   height: 800px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Golshany
+{
+   left: 616px;
+   top: 13px;
+   width: 115px;
+   height: 173px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Oshmyani
+{
+   left: 495px;
+   top: 99px;
+   width: 113px;
+   height: 157px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Smorgon_
+{
+   left: 759px;
+   top: 58px;
+   width: 123px;
+   height: 148px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Voronovo
+{
+   left: 371px;
+   top: 186px;
+   width: 114px;
+   height: 153px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Mir
+{
+   left: 739px;
+   top: 404px;
+   width: 105px;
+   height: 138px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Shychin
+{
+   left: 278px;
+   top: 331px;
+   width: 115px;
+   height: 138px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Lida
+{
+   left: 556px;
+   top: 334px;
+   width: 126px;
+   height: 153px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Krasnoselski
+{
+   left: 203px;
+   top: 469px;
+   width: 115px;
+   height: 142px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Dyatlovo
+{
+   left: 393px;
+   top: 469px;
+   width: 123px;
+   height: 148px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Slonim
+{
+   left: 560px;
+   top: 611px;
+   width: 122px;
+   height: 154px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+}
+@media only screen and (min-width: 1024px) and (max-width: 1279px)
+{
+div#container
+{
+   width: 1024px;
+}
+body
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+#BuildWith1
+{
+   left: 3101px;
+   top: 1622px;
+   width: 189px;
+   height: 180px;
+   visibility: visible;
+   display: inline;
+}
+#wb_Image1
+{
+   left: 0px;
+   top: 0px;
+   width: 1000px;
+   height: 800px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Golshany
+{
+   left: 616px;
+   top: 13px;
+   width: 115px;
+   height: 173px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Oshmyani
+{
+   left: 495px;
+   top: 99px;
+   width: 113px;
+   height: 157px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Smorgon_
+{
+   left: 759px;
+   top: 58px;
+   width: 123px;
+   height: 148px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Voronovo
+{
+   left: 371px;
+   top: 186px;
+   width: 114px;
+   height: 153px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Mir
+{
+   left: 739px;
+   top: 404px;
+   width: 105px;
+   height: 138px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Shychin
+{
+   left: 278px;
+   top: 331px;
+   width: 115px;
+   height: 138px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Lida
+{
+   left: 556px;
+   top: 334px;
+   width: 126px;
+   height: 153px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Krasnoselski
+{
+   left: 203px;
+   top: 469px;
+   width: 115px;
+   height: 142px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Dyatlovo
+{
+   left: 393px;
+   top: 469px;
+   width: 123px;
+   height: 148px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Slonim
+{
+   left: 560px;
+   top: 611px;
+   width: 122px;
+   height: 154px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+}
+@media only screen and (max-width: 1023px)
+{
+div#container
+{
+   width: 320px;
+}
+body
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+#BuildWith1
+{
+   left: 3101px;
+   top: 1622px;
+   width: 189px;
+   height: 180px;
+   visibility: visible;
+   display: inline;
+}
+#wb_Image1
+{
+   left: 0px;
+   top: 0px;
+   width: 1000px;
+   height: 800px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Golshany
+{
+   left: 616px;
+   top: 13px;
+   width: 115px;
+   height: 173px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Oshmyani
+{
+   left: 495px;
+   top: 99px;
+   width: 113px;
+   height: 157px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Smorgon_
+{
+   left: 759px;
+   top: 58px;
+   width: 123px;
+   height: 148px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Voronovo
+{
+   left: 371px;
+   top: 186px;
+   width: 114px;
+   height: 153px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Mir
+{
+   left: 739px;
+   top: 404px;
+   width: 105px;
+   height: 138px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Shychin
+{
+   left: 278px;
+   top: 331px;
+   width: 115px;
+   height: 138px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Lida
+{
+   left: 556px;
+   top: 334px;
+   width: 126px;
+   height: 153px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Krasnoselski
+{
+   left: 203px;
+   top: 469px;
+   width: 115px;
+   height: 142px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Dyatlovo
+{
+   left: 393px;
+   top: 469px;
+   width: 123px;
+   height: 148px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+#wb_Slonim
+{
+   left: 560px;
+   top: 611px;
+   width: 122px;
+   height: 154px;
+   visibility: visible;
+   display: inline;
+   margin: 0;
+   padding: 0;
+}
+}
